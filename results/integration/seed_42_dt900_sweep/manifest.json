@@ -1,0 +1,45 @@
+{
+  "git_commit": "unknown",
+  "generated_utc": "2026-09-21T14:55:29.400415+00:00",
+  "seed": 42,
+  "delta_t_seconds": 900,
+  "timestamp_resolution": "1s",
+  "timezone": "UTC",
+  "n_events": 10000,
+  "network_attack_prevalence": 0.05,
+  "blockchain_illicit_prevalence": 0.02,
+  "n_coordinated_scenarios": 47,
+  "n_accepted_pairs": 85,
+  "n_rejected_pairs": 9915,
+  "rejection_breakdown": {
+    "consent_scope_mismatch": 9781,
+    "device_session_mismatch": 134
+  },
+  "consent_scopes": [
+    "EHR_READ",
+    "EHR_WRITE",
+    "IMAGING",
+    "LAB_RESULTS",
+    "RESEARCH"
+  ],
+  "n_devices": 50,
+  "library_versions": {
+    "python": "3.12.12",
+    "numpy": "2.2.5",
+    "pandas": "2.3.2",
+    "sklearn": "1.7.2",
+    "imblearn": "not installed",
+    "xgboost": "not installed",
+    "lightgbm": "4.6.0",
+    "catboost": "not installed",
+    "shap": "not installed"
+  },
+  "integrity_checks": {
+    "duplicate_coordinated_scenarios": 0,
+    "coordinated_pairs_found": 47,
+    "coordinated_label_rule_ok": true,
+    "timestamp_label_correlation_network": 0.0008,
+    "timestamp_leakage_flag": false
+  },
+  "ground_truth_policy": "Labels generated before model inference; detector scores never used as label inputs."
+}

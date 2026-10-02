@@ -1,0 +1,79 @@
+No.,Model A,Model B,Cohen's d,Magnitude interpretation
+1,AdaBoost,CatBoost,-6.3301,large
+2,AdaBoost,Decision Tree,-6.4494,large
+3,AdaBoost,Extra Trees,-7.5659,large
+4,AdaBoost,Gradient Boosting,-5.1563,large
+5,AdaBoost,LightGBM,-6.4844,large
+6,AdaBoost,Logistic Regression,18.0401,large
+7,AdaBoost,MLP,-3.9241,large
+8,AdaBoost,Naive Bayes,34.8523,large
+9,AdaBoost,Random Forest,-7.3844,large
+10,AdaBoost,SVM-RBF,6.8519,large
+11,AdaBoost,XGBoost,-7.7227,large
+12,AdaBoost,k-NN,-1.6898,large
+13,CatBoost,Decision Tree,-1.0118,large
+14,CatBoost,Extra Trees,-2.2419,large
+15,CatBoost,Gradient Boosting,1.6847,large
+16,CatBoost,LightGBM,-1.9304,large
+17,CatBoost,Logistic Regression,16.6733,large
+18,CatBoost,MLP,3.2012,large
+19,CatBoost,Naive Bayes,38.6381,large
+20,CatBoost,Random Forest,-2.0328,large
+21,CatBoost,SVM-RBF,7.3792,large
+22,CatBoost,XGBoost,-1.9285,large
+23,CatBoost,k-NN,2.8224,large
+24,Decision Tree,Extra Trees,-1.0825,large
+25,Decision Tree,Gradient Boosting,2.2706,large
+26,Decision Tree,LightGBM,-0.6187,medium
+27,Decision Tree,Logistic Regression,15.2699,large
+28,Decision Tree,MLP,3.281,large
+29,Decision Tree,Naive Bayes,36.2648,large
+30,Decision Tree,Random Forest,-0.7754,medium
+31,Decision Tree,SVM-RBF,7.003,large
+32,Decision Tree,XGBoost,-0.48,small
+33,Decision Tree,k-NN,2.7467,large
+34,Extra Trees,Gradient Boosting,3.1553,large
+35,Extra Trees,LightGBM,0.2564,small
+36,Extra Trees,Logistic Regression,16.4054,large
+37,Extra Trees,MLP,4.6077,large
+38,Extra Trees,Naive Bayes,36.491,large
+39,Extra Trees,Random Forest,0.0564,negligible
+40,Extra Trees,SVM-RBF,7.616,large
+41,Extra Trees,XGBoost,0.2831,small
+42,Extra Trees,k-NN,3.2931,large
+43,Gradient Boosting,LightGBM,-2.3497,large
+44,Gradient Boosting,Logistic Regression,15.4781,large
+45,Gradient Boosting,MLP,0.8016,large
+46,Gradient Boosting,Naive Bayes,34.29,large
+47,Gradient Boosting,Random Forest,-2.6606,large
+48,Gradient Boosting,SVM-RBF,7.6675,large
+49,Gradient Boosting,XGBoost,-2.6002,large
+50,Gradient Boosting,k-NN,1.6257,large
+51,LightGBM,Logistic Regression,15.3676,large
+52,LightGBM,MLP,3.3387,large
+53,LightGBM,Naive Bayes,38.675,large
+54,LightGBM,Random Forest,-0.2691,small
+55,LightGBM,SVM-RBF,7.0766,large
+56,LightGBM,XGBoost,0.0015,negligible
+57,LightGBM,k-NN,2.8025,large
+58,Logistic Regression,MLP,-17.1191,large
+59,Logistic Regression,Naive Bayes,27.4125,large
+60,Logistic Regression,Random Forest,-15.6513,large
+61,Logistic Regression,SVM-RBF,-10.2211,large
+62,Logistic Regression,XGBoost,-17.6355,large
+63,Logistic Regression,k-NN,-18.2105,large
+64,MLP,Naive Bayes,35.9703,large
+65,MLP,Random Forest,-3.4194,large
+66,MLP,SVM-RBF,7.3669,large
+67,MLP,XGBoost,-4.5155,large
+68,MLP,k-NN,1.9171,large
+69,Naive Bayes,Random Forest,-36.7632,large
+70,Naive Bayes,SVM-RBF,-24.614,large
+71,Naive Bayes,XGBoost,-38.6636,large
+72,Naive Bayes,k-NN,-34.2551,large
+73,Random Forest,SVM-RBF,7.3797,large
+74,Random Forest,XGBoost,0.1527,negligible
+75,Random Forest,k-NN,2.8488,large
+76,SVM-RBF,XGBoost,-7.8043,large
+77,SVM-RBF,k-NN,-7.7544,large
+78,XGBoost,k-NN,3.3375,large

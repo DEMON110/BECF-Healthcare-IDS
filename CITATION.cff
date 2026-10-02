@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "BECF: A Unified Cross-Layer Risk Scoring Framework for Healthcare IoT Security with Blockchain Anomaly Detection and Explainable Intrusion Detection"
+authors:
+  - family-names: Chaudhary
+    given-names: Usman Mohyud Din
+  - family-names: Arshad
+    given-names: Humaira
+  - family-names: Mohmand
+    given-names: Muhammad Ismail
+  - family-names: Ahmed
+    given-names: Usama
+  - family-names: Ahmad
+    given-names: Usman
+repository-code: "https://github.com/DEMON110/BECF-Healthcare-IDS"
+abstract: >-
+  Reproducibility package for the BECF manuscript: a unified cross-layer
+  risk-scoring framework for healthcare IoT security combining ensemble
+  learning (Bayesian-optimized LightGBM) with blockchain-layer illicit
+  transaction detection, under a strict chronological 60/20/20 protocol.
